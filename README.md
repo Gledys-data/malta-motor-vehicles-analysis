@@ -21,7 +21,7 @@ The objective is to practice Python data analysis skills using a small real-worl
 | Q4/2025 |                 457,403 |                          3,265 |
 | Q1/2026 |                 460,648 |                          3,245 |
 
-## Technologies Used
+## Tools Used
 
 * Python
 * pandas
